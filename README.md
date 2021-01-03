@@ -1,4 +1,4 @@
-# fullstack-MEVN-blogging-platform
+# Blogging-platform
 Building a fullstack blogging platform, from scratch, using MongoDB, Express, Vue.js and Node.js.
 
 Currently, MongoDB has not yet been added. As such, all data is being initialised, got from, and stored within, in an array of objects.  This array is held within '.server/server.js'.
