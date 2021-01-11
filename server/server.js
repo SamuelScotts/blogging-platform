@@ -41,9 +41,10 @@ let posts =[
     }
   ];
 
+//let posts = []
 
 app.get('/', (req, res) => {
-    res.send(posts);
+  res.send(posts);
 })
 
 app.get('/story/:id', (req, res) => {
