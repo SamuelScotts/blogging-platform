@@ -16,7 +16,7 @@ Feel free to use the code, however as always, I will not be held liable for any 
 
 ![alt text](https://github.com/SamuelScotts/blogging-platform/blob/main/screenshots/main.png)
 
-<h3>Inside Post::</h3>
+<h3>Inside Post:</h3>
 
 ![alt text](https://github.com/SamuelScotts/blogging-platform/blob/main/screenshots/post.png)
 
